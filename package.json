@@ -1,0 +1,16 @@
+{
+  "name": "coffee_demo",
+  "version": "1.0.0",
+  "main": "app.coffee",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "coffeelint": "^1.16.0"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "UNLICENSED",
+  "description": "CoffeeScript demo"
+}
